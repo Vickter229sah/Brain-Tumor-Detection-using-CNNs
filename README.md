@@ -94,6 +94,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 #### Acknowledgments
 - TensorFlow and Keras for providing powerful libraries to build and train deep learning models.
 - OpenCV and Matplotlib for image processing and visualization.
-- The creators of the MRI dataset for making it publicly available.![Screenshot 2024-08-07 at 6 17 48 PM](https://github.com/user-attachments/assets/b7072a35-ca8d-4c30-baf5-18028b21bef9)
-![Screenshot 2024-08-07 at 6 18 05 PM](https://github.com/user-attachments/assets/2e451e21-6730-49d7-bd11-89e70488641b)![Screenshot 2024-08-07 at 6 18 15 PM](https://github.com/user-attachments/assets/727eca66-2073-4487-9943-eb9a07b47038)
+- The creators of the MRI dataset for making it publicly available.![Screenshot 2024-08-07 at 6 20 54 PM](https://github.com/user-attachments/assets/f7f16a43-9fbe-46cd-9593-d8e764b1260d)
+![Screenshot 2024-08-07 at 6 21 00 PM](https://github.com/user-attachments/assets/168bd2c3-1ac4-4c56-a859-59cd6e868212)
+![Screenshot 2024-08-07 at 6 21 00 PM](https://github.com/user-attachments/assets/5b846a95-bff8-4bba-959b-cedf09b663ca)![Screenshot 2024-08-07 at 6 21 12 PM](https://github.com/user-attachments/assets/e27e5a2f-84bf-4ae5-8413-e7c2f54bff40)
 
+![Screenshot 2024-08-07 at 6 21 05 PM](https://github.com/user-attachments/assets/7a63e711-a738-425c-bc43-31cf8a336f88)
