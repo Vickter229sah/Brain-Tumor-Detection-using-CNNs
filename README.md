@@ -1,3 +1,7 @@
+### Summary:
+This project demonstrates the use of Convolutional Neural Networks (CNNs) to detect brain tumors from MRI images. Using TensorFlow/Keras, OpenCV, Matplotlib, and NumPy, we preprocess the images, normalize them, and augment the training data. The CNN model consists of three convolutional layers followed by max pooling and dense layers for final classification. Trained on a dataset of MRI images, the model achieves good accuracy in distinguishing between tumor and non-tumor images. The performance is visualized through training and validation accuracy plots. This project provides a foundational approach for brain tumor detection, with potential for further enhancement through more complex architectures and advanced techniques.
+
+
 ### Project Note: Brain Tumor Detection using CNNs
 
 #### Project Overview
